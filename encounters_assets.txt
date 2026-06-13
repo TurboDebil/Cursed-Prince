@@ -1,0 +1,133 @@
+Start
+0
+All the prince got from his ancestors was the ability to hear worms moving underground, and the family name that mothers use to scare their children when they don't eat well. Death in your family is not the end, but just a change of status to a more smelly one.
+There is eternal autumn in Mezhdugorye. Rotten leaves, rotten walls, rotten people. He's sitting in a castle with only shadows left of the furniture, and you're waiting for the world to finally decide to finish you off.
+"Father always said that a crown is a crown of thorns, but he forgot to mention that it's also damn heavy. They're all dead now. And my father, and my brothers, and those who tried so hard to pretend that we were a normal family. They left him alone with this hole, which for some misunderstanding is called the kingdom. Outside, the "righteous" are yelling. They want me dead so sincerely, as if it would solve the problem of their lousy harvest."
+The throne room. The prince stands at a table on which a map of the city is laid out, on which he draws supply lines so that the Lower City does not die out by Wednesday. It's cold in the hall, but your name doesn't notice it—his mind is on numbers and survival logistics.
+The room is so quiet that you can hear the stone of the walls cooling. The Captain's heavy footsteps echo through the hall. He stops a good distance away.
+Captain: Yours…Your Majesty. I'm afraid your calculations for Wednesday are no longer worth this piece of parchment.
+"your name": (without looking up from the map, quietly) Captain. You entered again without a report. I asked you not to bother me until I'm done with the Lower City. Go back out the door.
+Captain: The Lower City is no longer at your disposal. Lowland entered the eastern sector. He announced that your grain was poisoned by necromancy, and ordered it to be poured into the moat. People help him open the barns themselves. They sing hymns while their breakfast is trampled in the mud.
+"your name": (he slowly straightens up, his hand freezes over the map) Into the mud... It took me three months to trade this grain. I pawned the family silver so they wouldn't starve to death. And they sing hymns... It seems that fanaticism is more satisfying than bread. It's clear. That means they'll start eating their own cats on Wednesday. And on Thursday they will come to my gate to ask for more.
+Captain: Fanaticism is more satisfying than bread, Your Highness. Lowland promises them the kingdom of heaven. You're only offering them another day in this shit. He demands that you go out to the gate and admit your insignificance in front of the Light. Otherwise, he will start "cleaning" houses.
+"your name": Purify... What a beautiful word for an ordinary massacre. (He looks at the Captain.) And you? Have you and your people already prepared white armbands to join the "righteous"?
+Captain: (swallows) We still carry your coat of arms. But my men won't shoot at a crowd that praises the gods. We are soldiers, not butchers. If you don't solve it now, we'll just step aside. Lowland will pick you up, and the city... Well, the city will get its martyr.
+"your name": A martyr? More like just another cooling corpse. Go ahead, Captain. Get your men off the gate.
+1. Come alone, hoping for crowd's common sense
+2. Come to the crypt and take an undead with you
+3. "That sounds as a betrayal. And i not tolerate traitors." kill captain and come with his corpse.
+??
+get_unit
+1
+2
+3
+"your name" only manages to cross the courtyard of the castle and approach the gate grating, as a column of black smoke soars over the Intermountain. It was the main barn that caught fire—the last one. The loud, cheering cry of the crowd is drowned out by the crackling of the flames. One of the "righteous" on the wall notices the prince and throws a torch in his direction. The fire falls a few steps away, illuminating the face of "your name."
+The square in front of the Mezhdugorye Town Hall. The air is thick with smoke from a burning barn. In the center stands the Inquisitor of Lowland in a snow-white cloak. He is calm and cold.
+When "your name" appears on the square, the Inquisitor turns his face to him, on which a mask of fastidious superiority is frozen.
+Inquisitor: "Look at this. The monster came out into the light. Your grain is cursed, monster. We will clear Mezhdugorye of your handouts, even if we have to turn this place into one big bonfire."
+1. "You are so passionate about saving their souls that you forgot to ask if their bodies would survive without this grain. Prayers are poor substitude for breakfast."
+2. "Your flame is cracking too loud. Extinguish it yourself before i force those who lie under your boots to do it."
+?
+narrative_vomiting
+0
+1
+The Inquisitor does not answer. He simply takes a step back into the shadow of his knights, and this gesture is more eloquent than any sermon.— Inquisitor: Kill it (he throws over his shoulder).
+The Lowland Knights lock shields together. Steel clangs against steel. They're coming at the prince slowly, confidently.
+!
+8
+
+Lowland's knights are backing away, some stumbling, dropping their shields. The Inquisitor disappears first. And his subordinates run after him, unable to defeat the dead.
+"your name" returns to the castle. The throne room is still the same cold and the same silence, only now it seems heavier. He goes over to the table and looks at the map of Mezhdugorye.
+Stop
+
+Start
+1
+The Lowland saints turned out to be smarter than they looked. They did not storm the walls. They simply set up roadblocks and blocked mountain trails, forbidding even salt to be imported into the Intercity region. Starving people to death by locking them in their own cradle is a cheap, clean and very "righteous" way of waging war. Living people have a bad habit of wanting to eat every few hours. And in two weeks it will become the main problem.
+The throne room of the castle. The window is open, fine snow flakes fly in. "your name" is sitting alone at the table. He has no one to call for advice and no one to ask for loyalty. The live guards had left during the night, and that was for the best-at least, there was no need to waste time on their fake oaths.
+In order to worsen the already bad state of affairs, the prince needs a resource that does not interfere, does not ask for rewards and provisions, and also does not dare to contradict. "Your name" has such a resource. The old garrison cemetery at the foot of the cliffs.
+1 "The people will curse me for disturbing the peace of their relatives. But it's better to curse when they're full than to starve to death."
+2 "If the living disdain to put themselves to work, it will be done by those who have already exhausted themselves. The dead don't care, but the state needs order."
+?
+narrative_vomiting
+2
+3
+"Your name" made its way through the overgrown forest to an abandoned cemetery outside the city. The wind whistled and smelled damp. 
+The prince fell to his knees in the sticky mud. The mark on his wrist sent a chill through his body. He became one with this place. He could feel everyone rotting under a layer of turf on his skin.
+He dug his fingers into the ground up to his nails. A nasty, rusty taste of metal instantly boiled on his tongue.
+"Your name": "Get up, - the prince's voice sounded hollow and tired - we have a lot of boring work ahead of us."
+The ground shook. At first, the phalanxes appeared from the ground: gray, gnawed by time, with clumps of clay sticking to them. Then the shoulders in the almost rotten rags came out. The dead were getting out hard, as if space itself was resisting their return. They lined up in front of him.
+With a terrible screech, one of them, a former servant, got down on one knee. The sound of his bones hitting the stones sounded clearer and truer than any oath.
+The dead man: "You invited us, my prince... - Thank you. It was so dark down there. So hopeless. We've been waiting for your call.  He slowly raised his head to look. "Mortals curse you for this gift, but they don't know what bliss it is to feel a little more alive again. We will do whatever you order, Your Majesty... But tell me, sir... But tell me... Do you really still hope for the gratitude of those at the top?"
+1 "I'm glad you're not in the dark anymore. I'm sorry for giving you hard work instead of peace. Get up... We need to feed this city."
+2 "I don't need their gratitude. I need them not to die out before the first snowfall. Take your tools and go to the arable land."
+?
+narrative_vomiting
+4
+5
+"Your name" walked in front of him, thudding footsteps could be heard behind him: the crunching of joints and the shuffle of rotten shoes sounded more honest than any oath.
+When the squad entered the city, Mezhdugorye... Numb. The shutters slammed shut before the prince could even reach the window. People just disappeared, turning into trembling shadows behind the curtains.
+The prince felt a fierce hatred mixed with shameful relief. The townspeople knew where he was leading this terrible formation. They knew that grain would be rustling in the mills tomorrow. And they hated him because now their lives had been bought at such a price—at the price of the peace of their own ancestors.
+Stop
+
+Start
+2
+Lowland realized that starvation would not take Mezhdugorye. The bread, mixed with the ashes of our ancestors, turned out to be surprisingly satisfying. But the saints don't know how to lose beautifully - they just changed their weapons. They sent paper instead of soldiers. The official ultimatum: they demand that the prince hand over his dead to the bonfires, and surrender himself to their righteous judgment. The funny thing is that people are begging me to agree. Real people are willing to voluntarily put on Lowland's pads, just to get rid of the need to see every day who exactly plows their fields. Cowardice is a very contagious thing.…
+Location: The Throne Room. 
+The Lowland ambassador, a sleek, pale old man in silk judicial robes, stands in the middle of the hall, trying not to touch the dirty flagstones with his hem. Behind him, two dead guards of the Intercity stood frozen, whom "your name" had called to guard. The ambassador defiantly holds his handkerchief over his nose.
+Ambassador: "The Lowland Meeting gives Intercity one last chance. Renounce your abomination. Let go of yours... The bone legions. Hand over the castle to our garrison, and the Inquisition will spare the lives of your subjects. The cleansing will only affect you. You do realize that your pride is ruining this country, right?"
+"your name" sits on the throne. He's bored. He had heard these speeches hundreds of times.
+The Ambassador: "...Your answer, Prince? Our army is already at the passes. They are only waiting for my sign."
+"your name": (without taking his eyes off his hand, in a toneless voice) "My answer is to get out. You have brought me too many letters, but there is not one of them that I could believe. Go back to your army."
+The Ambassador: (frowns disgustedly, shifting from one foot to the other)  "You're crazy, warlock. You choose death for this whole land."
+1 "They want my head. If only I could just give it to them in a bag so they could leave the city alone... But they won't leave. They need our rocks."
+"your name"
+2 "They didn't come to negotiate. This old man is only here so that their army at the passes can unfurl banners with a clear conscience. We need to raise new graves."
+?
+narrative_vomiting
+6
+7
+The old man turns around and hurriedly leaves, rustling silks. His footsteps fade away in the long corridors. "your name" remains alone in the empty hall. At this moment, the last living person who has not yet escaped from the castle, the old court Clerk, comes out of the shadow of the columns. He is shaking with fear, his eyes are full of tears, and in his hands he clutches a bunch of keys to the archive.
+The old Clerk took a few steps forward, and the bunch of keys in his hands rang shrilly. In the empty, cold hall, the sound seemed deafening.
+The clerk: "Your Highness... I have prepared all the books. Accounts, inventories of property, registers of the kingdom. Everything is sorted by year in the archive. I.. I'll leave the keys here on the table."
+"your name": (without turning his head)  "Why? As far as I know, your term of service expires only in the spring."
+Clerk: (the old man's lips trembled, he finally raised his eyes, full of animal fear) "I can't take it anymore, Your Majesty. Forgive me. It's not about Lowland. It's about... them. They're not breathing. They just stand there in the dark and watch. Living people shouldn't live in a crypt. I beg you to surrender. It is better to die by the sword of a righteous man than to see every day…This. Give them the castle."
+"Your name": "They do not steal grain from warehouses and do not demand anything. Unlike the living. If you decide to run, run. I'm not going to persuade you."
+1 "Go ahead, Clerk. Take your things and leave for the city. Forcing you to breathe this air against your will is not for me."
+2 "Put down the keys and get out. I don't need alarmists in the castle before the war."
+?
+narrative_vomiting
+8
+9
+The clerk put the keys on the edge of the table with a bang, bowed convulsively and backed away to the exit. The heavy oak doors of the castle slammed shut behind him.
+There was silence in the Castle. Real, silent, without a single unnecessary sigh.
+"your name" slowly approached the table and took a bunch of keys. They were cold. It was rapidly getting dark outside, and fine ice grains covered the gray stones of the courtyard outside the window. There wasn't a single person left in the huge castle with a heart beating inside. The prince looked at the dead guards at the door. They stood straight, not moving, faithfully awaiting any order. They weren't afraid.
+"your name": "Well, then. It looks like I'll have to do the archive myself now, too. Take the registers and drag them to my office. We have a long night ahead of us."
+Stop
+
+Start
+3
+They came at dawn. Lowland has gathered all his "righteous" army at our borders.: thousands of shining armor, white banners, blessed steel. They call it the Holy Crusade, the cleansing of the desecrated land. The people have locked themselves in their houses and are praying, hoping that if they do not come out on the walls, the inquisitors of Lowland will spare them. Fools...
+the scene: The Valley of Sorrow is a wide rocky gorge
+On the horizon, as far as the eye can see, are the smooth, endless legions of Lowland. In front of them, on a white horse, stands the Supreme Inquisitor, who sincerely believes that by killing, he saves souls.
+"your name" stands on a rocky ledge at the entrance to the valley. There are no living warriors behind him. Those he raised from the graves of Mezhdugorye over the months are standing there: the old garrison, the bone ploughmen, the knights of the enemy who fell in past skirmishes.
+Lowland's army freezes. The High Inquisitor rides forward and raises his hand in a shining gauntlet. His voice, amplified by the magic of Light, reverberates over the valley, clear and sonorous.
+Inquisitor: "The devil's spawn! Your damned family has ruled these rocks for too long. You have polluted the earth with the ashes of your ancestors and forced the living to eat the fruits of necromancy. Today the Light will burn your monastery. Put down your sword, warlock. Your time is up. Legions of Light, forward! Clear this valley!"
+Lowland's army breaks into a run. The ground is buzzing under the hooves of horses and thousands of shod boots. "your name" opens the barrier inside itself, completely surrendering to the Mark. His fingers cramp, and his body turns over from the sickening cold, but the prince no longer resists. His legions of the dead silently, with the grinding of bones and the clang of rusty steel, rush like an avalanche down into the valley.
+The living collide with the dead. A terrible, dirty slaughter begins, where the steel of Lowland chops bones, and the bones of Interstellar tear living flesh without mercy. The prince controls this chaos like a huge, soulless machine. Any fallen Lowland knight gets up on his side in a minute, continuing to kill his comrades.
+!
+14 14 12 12 12 12  13 13 13 13 9 9
+Stop
+
+Start
+4
+In the midst of the battle in the Valley of Sorrow, as he prepares a crucial spell to crush the Supreme Inquisitor, he feels a sharp, burning pain in his back. 
+"Your name" slowly turns around and sees the faces of his living subjects. The ones he had once spared, the ones he had tried to feed without scaring with bones. While the prince was busy fighting the outside world, they formed a conspiracy behind his back. They see only a curse in his hands, and Lowland's inquisitors have promised them forgiveness if they turn over the necromancer. A sharp dagger is thrust under the shoulder blade. 
+He falls to his knees in the cold mud of the Valley of Sorrow. As he dies, he sees the "righteous" knights of Lowland break into the walls with a victory cry and begin a ruthless massacre of the very people who had just betrayed him for the sake of the illusion of salvation. "your name" closes its eyes to the screams of the dying Long Distance. He lost like a king. But he leaves as a man, finding the peace he deserved for so long.
+Stop
+
+Start
+5
+Lowland is defeated. Their legions died in the Valley of Sorrow and joined the ranks of the defenders. The prince returns to the castle and sits on the throne. He survived, and his state is completely safe. 
+"your name" overlooks the balcony of the throne room. Below, on the square, are the people of Mezhdugorye. They are fed, clothed, and no longer in danger of death at the hands of Lowland. But when the prince appears in front of them, a dead, paralyzing silence falls on the square. The townspeople don't shout "Glory!", they just press their heads into their shoulders and look away at the ground. He saved their bodies, but they burned out all life in them.
+ For them, he is not a savior, but a creepy, eternal mechanism devoid of a soul. The prince cannot die - the whole country rests on his shoulders, and without his will, the dead ploughmen will fall. He is surrounded by dead servants, because they are the only ones who do not look at their king with animal hatred. He won. But this crown will weigh on his head forever.
+Stop

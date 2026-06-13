@@ -1,0 +1,8 @@
+﻿  battle.cpp
+C:\Users\Пользователь\Desktop\алгосы\побегали-попрыгали\попрыгали\enemies\Project1\battle.cpp(11,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Пользователь\Desktop\алгосы\побегали-попрыгали\попрыгали\enemies\Project1\battle.cpp(12,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Пользователь\Desktop\алгосы\побегали-попрыгали\попрыгали\enemies\Project1\battle.cpp(31,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Пользователь\Desktop\алгосы\побегали-попрыгали\попрыгали\enemies\Project1\battle.cpp(52,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Пользователь\Desktop\алгосы\побегали-попрыгали\попрыгали\enemies\Project1\battle.cpp(79,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Пользователь\Desktop\алгосы\побегали-попрыгали\попрыгали\enemies\Project1\battle.cpp(112,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Пользователь\Desktop\алгосы\побегали-попрыгали\попрыгали\enemies\x64\Debug\Project1.exe
